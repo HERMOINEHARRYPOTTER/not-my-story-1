@@ -50,6 +50,3 @@ screen
  she did yesterday.
 heehee!
 
-Hi Addie!
-Can *Matt* be an administrator?
-This is very **important**.
